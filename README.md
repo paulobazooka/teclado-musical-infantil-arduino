@@ -20,7 +20,6 @@ Para o projeto foi utilizado o editor VSCode com o plugin [PlatformIO](https://p
 # Diagrama
 ![Diagrama](images/diagrama.png)
 
-# Playlist do Projeto
-![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+# Playlist do Projeto YouTube
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL3eeSBG887IMoi00QTnhB3eoNwIQUxrWe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](images/youtube.png)](https://www.youtube.com/embed/videoseries?list=PL3eeSBG887IMoi00QTnhB3eoNwIQUxrWe)
